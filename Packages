@@ -1,0 +1,7 @@
+Origin: haohuangzhang
+Label: haohuangzhang
+Suite: stable
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 个人越狱源
